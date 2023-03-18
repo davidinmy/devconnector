@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://heliushanchuan:LDhT5F8Bms16il1x@devconnector.klrl4ni.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://heliushanchuan:LDhT5F8Bms16il1x@devconnector.klrl4ni.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
